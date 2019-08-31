@@ -1,2 +1,2 @@
 # python-keylogger
-Keylogger created with Python
+A lil keylogger created with Python
